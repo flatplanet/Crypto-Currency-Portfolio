@@ -13,7 +13,7 @@ lookup.py contains the final code used in the course.
 
 If you have any questions, you can contact me any time at:
 
-https://codemy.comm
+https://codemy.com
 
 -John Elder
 Codemy.com
